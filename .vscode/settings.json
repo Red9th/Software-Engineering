@@ -1,0 +1,27 @@
+{
+    "editor.fontSize": 15,
+    "background.customImages": [
+
+        "file:///D:/like.jpg"
+    ],
+    "background.useDefault": false,
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "center",
+        "background-repeat": "no-repeat",
+        "background-size": "100%,100%",
+        "opacity": 0.2
+        },
+        "files.associations": {
+            "queue": "cpp",
+            "utility": "cpp",
+            "iostream": "cpp",
+            "algorithm": "cpp",
+            "xstring": "cpp"
+        }
+}
