@@ -834,7 +834,7 @@
 				    height     	134
 				    autoResize 	TRUE)
 				(object StateView "EndState" "$UNNAMED$1" @27
-				    location   	(1872, 1968)
+				    location   	(1872, 1976)
 				    icon_style 	"Icon"
 				    line_color 	3342489
 				    quidu      	"635F16DF0357"
@@ -1077,7 +1077,7 @@
 					default_color 	TRUE)
 				    label      	(object SegLabel @40
 					Parent_View 	@39
-					location   	(1917, 1820)
+					location   	(1917, 1824)
 					font       	(object Font
 					    size       	10
 					    face       	"Arial"
@@ -1102,7 +1102,7 @@
 				    supplier   	@27
 				    vertices   	(list Points
 					(1872, 1715)
-					(1872, 1926))
+					(1872, 1934))
 				    line_style 	0
 				    x_offset   	FALSE)
 				(object SelfTransView "" @41
