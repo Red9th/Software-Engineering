@@ -18,9 +18,8 @@ public class MaxSubSumOfSequence {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         for(int i = 1; i <= n; i ++) {
-            if(s.hasNext()) {
+            if(s.hasNext())
                 a[i] = s.nextInt();
-            }
         }
         System.out.println(solve(a, n));
     }
